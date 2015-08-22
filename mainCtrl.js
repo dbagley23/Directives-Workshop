@@ -7,5 +7,5 @@ $scope.getData = function () {
            return $scope.data = data;
         });
     };
-
+    $scope.myAge = 56;
 });
